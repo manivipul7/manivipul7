@@ -30,13 +30,6 @@ My work lives at the intersection of **simulation and physical realization** —
 
 ---
 
-### 🌍 Current Focus
-- Building a **GitHub portfolio** that demonstrates *finite element workflows* — from model setup to parameterized post‑processing.  
-- Integrating **Python automation pipelines** for structural‑thermal design loops.  
-- Exploring **mission design trade‑offs** and **space mechanism optimization** for future interplanetary applications.
-
----
-
 > *Always open to collaborations in spacecraft structures, astrodynamics simulations, or mechanism design.*
 
 ---
