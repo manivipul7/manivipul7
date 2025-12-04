@@ -11,11 +11,6 @@ My work lives at the intersection of **simulation and physical realization** —
 - **Mechanisms & Structures:** Designing primary structures and compliant mechanical systems in *Siemens NX*, *SolidWorks*, and *ANSYS Mechanical/Simcenter 3D*.  
 - **Systems Integration:** Translating ECSS and NASA requirements into verified, test-ready designs that have undergone *vibration, thermal, and TVAC qualification*.  
 - **Astrodynamics & Mission Design:** Experienced in Python‑based modeling, sensitivity analysis, and geometry automation for satellite dynamic environments, orbital trades, and control‑structure interaction.  
-- **Past Projects:**  
-  - Compliant fast‑steering mirrors for optical communication terminals.  
-  - Structural sizing of CubeSat and small launch‑vehicle frames.  
-  - Deployable solar arrays and optical payload interfaces for Earth‑observation missions.  
-  - Hyperloop and rocket component FEA under ECSS and AIAA standards.  
 
 ---
 
