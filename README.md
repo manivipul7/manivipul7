@@ -19,13 +19,6 @@ My work lives at the intersection of **simulation and physical realization** —
 
 ---
 
-### 🧠 Engineering Philosophy
-> Systems thinking, verified in code and confirmed by test.
-
-I thrive on **multi‑disciplinary problem solving**, connecting astrodynamics with structural dynamics and mechanical design. My goal: to build hardware that’s **lightweight, manufacturable, and flight‑proven** — grounded in analysis but optimized through computational automation.  
-Python workflows and parametric CAD tools help me iterate faster, visualize system sensitivities, and make data‑driven design decisions.
-
----
 
 ### 🧰 Tech Stack & Tools
 | Domain | Tools & Technologies |
