@@ -1,9 +1,54 @@
-## About Me
+# 👨‍🚀 Hey there, I'm Vipul Mani
 
-Aerospace engineer and space-systems generalist with 3+ years of experience spanning astrodynamics, structural mechanics, thermal–mechanical design, and space mechanisms. My work ranges from designing compliant fast steering mirrors for optical communication terminals to sizing CubeSat and launch‑vehicle structures, with a consistent focus on translating system-level requirements into robust, test‑validated hardware.
+> *"Turning equations into engineering reality — from orbit mechanics to compliant mechanisms."*
 
-On the structural side, I design and analyze mechanisms and primary structures in Siemens NX, SolidWorks, and ANSYS Mechanical/Simcenter 3D, covering static, modal, buckling, nonlinear, and transient response under launch and in‑orbit environments. This includes ECSS‑compliant FEA for satellite mechanisms, Hyperloop pod structures, and rocket components, often validated with vibration, thermal, TVAC, and experimental modal testing.
+---
 
-My background in astrodynamics and mission design comes from an M.Sc. in Space Engineering at TU Berlin and multiple spacecraft projects, where I worked on deployable solar arrays, optical payload interfaces, and Earth observation satellite subsystems. I use Python for parametric modeling, sensitivity studies, and automated design iterations, enabling fast geometry updates and design trades across structural, thermal, and control performance.
+### 🚀 About Me
+I’m an **Aerospace Engineer and Space‑Systems Generalist** with 3+ years of experience bridging **astrodynamics**, **structural mechanics**, and **space mechanisms design**.  
+My work lives at the intersection of **simulation and physical realization** — designing and validating hardware that survives launch, works flawlessly in orbit, and tells a story of precise engineering.
 
-I enjoy working at the interfaces: coordinating with systems, thermal, electrical, AIT, and suppliers; interpreting standards such as ECSS, ISO, AIAA, and NASA guidelines; and documenting designs through clear requirements, trade studies, and test reports. Across projects—from CubeSat mechanisms and Hyperloop pods to compliant mirror actuators and impact‑tested components—my focus is integrating astrodynamics, mechanical design, and structural/thermal simulation into coherent system solutions that are ready for manufacturing, test, and flight.
+- **Mechanisms & Structures:** Designing primary structures and compliant mechanical systems in *Siemens NX*, *SolidWorks*, and *ANSYS Mechanical/Simcenter 3D* — from static, modal, and buckling analyses to nonlinear and transient response under space‑flight loads.  
+- **Systems Integration:** Translating ECSS and NASA requirements into verified, test-ready designs that have undergone *vibration, thermal, and TVAC qualification*.  
+- **Astrodynamics & Mission Design:** Experienced in Python‑based modeling, sensitivity analysis, and geometry automation for satellite dynamic environments, orbital trades, and control‑structure interaction.  
+- **Past Projects:**  
+  - Compliant fast‑steering mirrors for optical communication terminals.  
+  - Structural sizing of CubeSat and small launch‑vehicle frames.  
+  - Deployable solar arrays and optical payload interfaces for Earth‑observation missions.  
+  - Hyperloop and rocket component FEA under ECSS and AIAA standards.  
+
+---
+
+### 🧠 Engineering Philosophy
+> Systems thinking, verified in code and confirmed by test.
+
+I thrive on **multi‑disciplinary problem solving**, connecting astrodynamics with structural dynamics and mechanical design. My goal: to build hardware that’s **lightweight, manufacturable, and flight‑proven** — grounded in analysis but optimized through computational automation.  
+Python workflows and parametric CAD tools help me iterate faster, visualize system sensitivities, and make data‑driven design decisions.
+
+---
+
+### 🧰 Tech Stack & Tools
+| Domain | Tools & Technologies |
+|--------|----------------------|
+| CAD & FEA | Siemens NX · SolidWorks · ANSYS Mechanical · Simcenter 3D |
+| Programming | Python (NumPy · Matplotlib · SciPy · pandas · Poliastro) |
+| Systems & Standards | ECSS · ISO · AIAA · NASA · MBSE tools |
+| Testing & Validation | Vibration · Thermal · TVAC · Modal |
+
+---
+
+### 🌍 Current Focus
+- Building a **GitHub portfolio** that demonstrates *finite element workflows* — from model setup to parameterized post‑processing.  
+- Integrating **Python automation pipelines** for structural‑thermal design loops.  
+- Exploring **mission design trade‑offs** and **space mechanism optimization** for future interplanetary applications.
+
+---
+
+### 🛰️ Let’s Connect
+📫 [LinkedIn](#) · 🌐 [Portfolio Website](#) · 🧑‍💻 [GitHub Projects](#)
+
+> *Always open to collaborations in spacecraft structures, astrodynamics simulations, or mechanism design.*
+
+---
+
+⭐ **“Engineering is the art of making trade‑offs in the language of physics.”**
