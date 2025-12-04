@@ -1,6 +1,6 @@
 # 👨‍🚀 Hey there, I'm Vipul Mani
 
-> *"Turning equations into engineering reality — from orbit mechanics to compliant mechanisms."*
+> *"Turning equations into engineering reality — from orbital mechanics to compliant mechanisms."*
 
 ---
 
@@ -43,9 +43,6 @@ Python workflows and parametric CAD tools help me iterate faster, visualize syst
 - Exploring **mission design trade‑offs** and **space mechanism optimization** for future interplanetary applications.
 
 ---
-
-### 🛰️ Let’s Connect
-📫 [LinkedIn](#) · 🌐 [Portfolio Website](#) · 🧑‍💻 [GitHub Projects](#)
 
 > *Always open to collaborations in spacecraft structures, astrodynamics simulations, or mechanism design.*
 
