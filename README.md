@@ -24,9 +24,3 @@ My work lives at the intersection of **simulation and physical realization** —
 | Testing & Validation | Vibration · Thermal · TVAC · Modal |
 
 ---
-
-> *Always open to collaborations in spacecraft structures, astrodynamics simulations, or mechanism design.*
-
----
-
-⭐ **“Engineering is the art of making trade‑offs in the language of physics.”**
