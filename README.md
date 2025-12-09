@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-I’m an **Aerospace Engineer and Space‑Systems Engineer** with 3+ years of experience bridging **astrodynamics**, **structural mechanics**, and **space mechanisms design**.  
+I’m an **Space Engineer and Space‑Systems Engineer** with 3+ years of experience bridging **astrodynamics**, **structural mechanics**, and **space mechanisms design**.  
 My work lives at the intersection of **hands-on mechancial design and data driven simulation** to design and validate hardware that survives launch, is functional and operational in orbit.
 
 - **Mechanisms & Structures:** Designing primary structures and compliant mechanical systems in *Siemens NX*, *SolidWorks*, and *ANSYS Mechanical/Simcenter 3D*.  
